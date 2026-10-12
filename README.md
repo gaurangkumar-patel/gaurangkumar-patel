@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Gaurang Patel
 
-### Backend Software Engineer | PHP • Laravel • Yii2 • REST APIs • MySQL • Redis • React.js
+### Software Engineer | Backend & Full-Stack | PHP • Laravel • REST APIs • SQL • Integrations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurangpatel2326)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-111827?logo=googlechrome&logoColor=white)](https://gaurangkumar-patel.github.io/portfolio)
@@ -19,11 +19,11 @@ London, United Kingdom · Full UK right to work · No sponsorship required
 
 ## About Me
 
-Backend-focused Software Engineer with **5+ years of commercial experience** designing, developing and maintaining web applications, RESTful APIs and enterprise software platforms.
+Software Engineer with **5+ years of commercial experience** and around **5 years of Laravel development experience**, including 4+ years delivering and supporting production Laravel applications.
 
-My core experience includes **PHP, Laravel, Yii2, MySQL, Redis, React.js, API integrations, database design, background processing and performance optimisation**. I have contributed to production systems across property management, financial services, B2B marketplaces, workplace platforms, eCommerce and high-traffic retail applications.
+My backend-first experience includes **PHP/Laravel, Yii2, REST APIs, MySQL, React.js, third-party integrations, scheduled automation, SQL and stored-procedure optimisation, Redis/Memcached, production troubleshooting and legacy modernisation**. I have contributed to production systems across property management, financial services, B2B commerce, employee services and retail.
 
-Alongside my current UK employment, I am building **GlistPro** as a part-time Founder and Backend Software Engineer.
+Alongside software engineering, I currently serve as a **Team Leader (Branch Operations)** in London and continue developing **GlistPro** part-time as Founder and Backend Software Engineer.
 
 ---
 
@@ -57,9 +57,9 @@ Alongside my current UK employment, I am building **GlistPro** as a part-time Fo
 ## Current Focus
 
 - Building **GlistPro**, a Laravel-based eCommerce listing automation and template-management platform.
-- Developing modular backend services using **PHP 8.3, Laravel 12 and MySQL**.
+- Designing modular backend services and relational data structures using **PHP 8.x, Laravel and MySQL**.
 - Applying clean architecture, validation, authentication, logging and exception-handling practices.
-- Using **Redis and Laravel queues** for caching and background-processing requirements.
+- Planning **Redis caching and background processing** where they add clear value.
 - Improving practical knowledge of Docker, CI/CD and cloud deployment patterns.
 
 ---
@@ -80,7 +80,7 @@ An early-stage SaaS-style platform designed to simplify repetitive listing-prepa
 - API-ready backend services
 - Future marketplace and third-party integrations
 
-**Technologies:** PHP 8.3, Laravel 12, MySQL, Redis, Laravel Queues, REST APIs, React.js, Blade, Tailwind CSS, Git and Docker.
+**Technologies:** PHP 8.x, Laravel, MySQL, Blade/Inertia/React, Tailwind CSS, Redis and Git. Caching and background processing are planned.
 
 > The source repository is private while the MVP is in development.
 
@@ -124,7 +124,7 @@ Developed an internal Python and Flask application for JAH Product Ltd to automa
 
 | Repository | Description | Technologies |
 |---|---|---|
-| [portfolio](https://github.com/gaurangkumar-patel/portfolio) | Personal software-engineering portfolio and project showcase | HTML, CSS, JavaScript |
+| [portfolio](https://github.com/gaurangkumar-patel/portfolio) | Personal software-engineering portfolio and project showcase | Astro, React, TypeScript, Three.js |
 | [supplier-product-parser](https://github.com/gaurangkumar-patel/supplier-product-parser) | Command-line tool for parsing supplier product files and counting unique combinations | PHP |
 | [tillmate](https://github.com/gaurangkumar-patel/tillmate) | Mobile-friendly UK coin-weight and till cash-up calculator | JavaScript |
 | [speech-to-text](https://github.com/gaurangkumar-patel/speech-to-text) | Browser-based multilingual speech-to-text application | HTML, CSS, JavaScript |
@@ -135,11 +135,11 @@ Developed an internal Python and Flask application for JAH Product Ltd to automa
 ## Professional Highlights
 
 - **5+ years** of commercial software-development experience
-- Production experience with **Laravel, Yii2, MySQL, Redis and React.js**
+- Around **5 years of Laravel development experience**, including 4+ years supporting production Laravel applications
 - REST API design, third-party integrations and database optimisation
 - Enterprise integrations involving **AWS, Azure AD, SharePoint, Microsoft Graph and eBay APIs**
 - Experience across SaaS, property management, finance, eCommerce and B2B marketplace systems
-- Strong interest in clean, maintainable and reliable backend engineering
+- Current **Team Leader** experience alongside software engineering, including staffing coordination, incident escalation and operational controls
 
 ---
 
